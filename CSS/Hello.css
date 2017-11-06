@@ -1,0 +1,34 @@
+body{
+	font-family: "Microsoft Yahei";
+	font-size:20px;
+	color: blue;
+}
+
+h1{
+	text-align: center;
+}
+
+p .stress{
+	font-weight: bold;
+}
+
+#school{
+	font-style: italic;
+	color:#333;
+}
+
+.newline{
+	text-indent: 5em;/*缩进*/
+	line-height: 1.5em;/*行高*/
+	letter-spacing: 5px;/*字符间距*/
+	word-wrap: 10px;/*单词间距*/
+	border-bottom-style: solid;
+	border-bottom-color: blue;
+}
+
+div{
+	border-width: 2px;
+	border-style: dashed;
+	border-color: red;
+}
+
